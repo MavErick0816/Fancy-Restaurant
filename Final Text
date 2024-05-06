@@ -55,6 +55,7 @@ public class Main {
                     orderGood = true;
                 } else if (order > 6 || order < 1) {
                     System.out.println("Sorry that isn't an item.");
+                    PrintMenu();
                     System.out.println("Please pick from our menu.");
                 }
             }
