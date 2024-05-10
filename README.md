@@ -27,3 +27,8 @@ If you choose to pay cash, you will be asked to enter payment. Please enter how 
 ![image](https://github.com/MavErick0816/Restaurant/assets/166775613/5bc6e99f-c057-418c-aa05-f48b54973f59)
 
 You have successfully purchased food from our Restaurant. Thank you for dining with us.
+
+
+By
+Erick Velazquez
+Norden Hasan
